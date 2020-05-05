@@ -1,0 +1,22 @@
+{
+  "name": "df-footer",
+  "version": "0.1.0",
+  "description": "desc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gleekzorp/df-footer-js.git"
+  },
+  "author": "Daniel Floyd <gleek.dan@gmail.com> (https://www.github.com/gleekzorp)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gleekzorp/df-footer-js/issues"
+  },
+  "homepage": "https://github.com/gleekzorp/df-footer-js#readme",
+  "dependencies": {
+    "moment": "^2.25.3"
+  }
+}
